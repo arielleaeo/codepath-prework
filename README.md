@@ -1,7 +1,7 @@
 ## Prework
 
 ### App Description
-`TODO://` Add app description
+This app changes the text color of the top label with the push of a button.
 
 ### App Walk-though
 
